@@ -2,6 +2,7 @@
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Before;
+import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
@@ -32,7 +33,7 @@ public class ChooseScooterColorCreateOrderTest {
                 "");
     }
 
-    @org.junit.Test
+    @Test
     @DisplayName("Choose color in create order test")
     public void chooseColorInCreateOrderTest() {
         ValidatableResponse loginResponse = courierClient.createOrders(color);
