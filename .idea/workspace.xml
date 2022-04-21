@@ -4,8 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7b9cf6-0cdd-4a44-ad18-05906cfe61d4" name="Changes" comment="JenkinsTest">
-      <change afterPath="$PROJECT_DIR$/surefire-reports/1.xml" afterDir="false" />
+    <list default="true" id="4d7b9cf6-0cdd-4a44-ad18-05906cfe61d4" name="Changes" comment="JenkinsTest delete">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_reload4j_reload4j_1_2_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/098f98f6-5b97-45ca-8a4b-3c92fea6a34f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0f476a6c-d419-4d3c-9bfa-0207d924b3ec-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/192eee55-84b0-4748-bfc5-d1169831f11b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2e517c33-ffd4-4bae-b8a4-3a4292f16e49-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/315a8dc0-051e-47c7-b615-2a9db1aed834-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4d0c05e7-af4c-496b-bd4f-de40720f147f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/52266997-d386-4758-8886-5982ce49915a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/54f7b880-ce4d-4efd-9993-69b1ac87635c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/58159643-c5ed-4c93-865e-c9631d81f069-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/58f42008-8615-4cff-af2f-0bf760c0571e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/64caaa12-d9c9-4bab-ae91-670d54e38835-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6e0a0f7b-403e-4efe-bce5-86a67b3589dd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/71f81955-76f2-4bbf-9741-941bac8529ca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/89906d60-2230-455d-a1b2-ba52435bcc71-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/97589683-5771-466a-bb72-e40454395225-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ab3ae603-ba15-466b-96f0-4a77810d576a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b2ef163e-2829-4a79-b46a-19233f62455e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c5cd68ba-8501-4868-a69e-99fbda2f4735-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ChooseScooterColorCreateOrderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ChooseScooterColorCreateOrderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CreateCourierFailTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CreateCourierFailTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CreateCourierSuccessTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CreateCourierSuccessTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoginCourierFailTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginCourierFailTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoginCourierSuccessTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LoginCourierSuccessTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/OrdersListTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/OrdersListTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ChooseScooterColorCreateOrderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ChooseScooterColorCreateOrderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateCourierFailTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateCourierFailTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateCourierSuccessTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CreateCourierSuccessTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginCourierFailTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginCourierFailTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginCourierSuccessTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginCourierSuccessTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-OrdersListTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-OrdersListTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650539785471</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JenkinsTest delete">
+      <created>1650541373158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650541373158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +210,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="sprint3" />
     <MESSAGE value="JenkinsTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="JenkinsTest" />
+    <MESSAGE value="JenkinsTest delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="JenkinsTest delete" />
   </component>
 </project>
