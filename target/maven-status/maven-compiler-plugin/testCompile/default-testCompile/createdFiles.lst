@@ -1,0 +1,6 @@
+LoginCourierFailTest.class
+CreateCourierFailTest.class
+ChooseScooterColorCreateOrderTest.class
+LoginCourierSuccessTest.class
+OrdersListTest.class
+CreateCourierSuccessTest.class
